@@ -14,4 +14,6 @@ public class Konsumsi<M, I> {
         this.m = makanan;
         this.i = minuman;
     }
+
+    frfff5f
 }
